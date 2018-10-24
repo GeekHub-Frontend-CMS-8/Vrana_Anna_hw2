@@ -1,0 +1,24 @@
+body {
+	font-family: 'Times New Roman', serif;
+}
+
+header {
+	text-align:center;
+}
+
+.img1-plane {
+	float:left;
+}
+
+.p-center {
+	text-align: center;
+}
+
+.p-right {
+	text-align: right;
+}
+
+.img2-animal {
+	display:block;
+	margin:auto;
+}
